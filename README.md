@@ -41,6 +41,7 @@ Flag	Description
 -v	Verbose mode (show all packets)
 -t	Capture timeout in seconds (default: 60)
 -o	Save results to file
+
 📝 Example Output
 
 [+] 🎯 Found XOR-MAPPED-ADDRESS: 123.45.67.89
